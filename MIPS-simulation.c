@@ -128,6 +128,6 @@ int main(void) {
     print_cpu_state(&cpu);  // 顯示 CPU 狀態
 
 
-    printf("CPU done");
+    printf("CPU done");//test
     return 0;
 }
