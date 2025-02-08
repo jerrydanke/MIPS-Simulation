@@ -127,5 +127,7 @@ int main(void) {
     execute_pipeline(&cpu);  // 執行模擬
     print_cpu_state(&cpu);  // 顯示 CPU 狀態
 
+
+    printf("CPU done");
     return 0;
 }
